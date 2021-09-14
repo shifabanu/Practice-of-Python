@@ -14,7 +14,7 @@ for i in range(0, length):
 
 print("You entered: ", array)
 
-#find the largest among the array
+#find the largest number among in the array
 
 max = array[0]
 
